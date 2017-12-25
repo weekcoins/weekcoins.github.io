@@ -180,6 +180,10 @@ footer {
     color: #333;
 }
 
+#media-links li a {
+    font-size:200%;
+        
+}
  
 
 /* Media Queris */
